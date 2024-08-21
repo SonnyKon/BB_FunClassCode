@@ -1,3 +1,5 @@
+//TODO add code for targetHost
+
 /** @param {NS} ns */
 export async function main(ns) {
   let targetServer = 'n00dles';

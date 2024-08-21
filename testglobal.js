@@ -1,3 +1,5 @@
+// test of global variable
+
 let globalValue = 0;
 let hacks = 0;
 /** @param {NS} ns */
